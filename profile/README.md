@@ -6,6 +6,6 @@ Our work spans full-scale platform implementations and replatforming projects ac
 
 We bring structure and transparency to environments where chaos and waste are common. Our lean, senior teams operate with explicit ownership, tracked progress, visible budgets, and real-time accountability — from strategy through execution and beyond.
 
-Our technology partnerships include Shopify Plus, Optimizely (Commerce Partner of the Year), inriver (Gold Partner), Znode, and HawkSearch, among others. We've delivered commerce transformations for organizations like Emser Tile, Chefs' Warehouse, Living Spaces, Crescent Electric, and Fjällräven.
+Our technology partnerships include Virto Commerce, Shopify Plus, Optimizely (Commerce Partner of the Year), inriver (Gold Partner), and HawkSearch, among others. We've delivered commerce transformations for organizations like Chefs' Warehouse, Living Spaces, Crescent Electric, and Fjällräven.
 
 Headquartered in Los Angeles, CA, with operations in Romania. Learn more at [luminoslabs.com](https://www.luminoslabs.com).
